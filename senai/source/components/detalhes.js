@@ -1,5 +1,5 @@
 import { View, Image, StyleSheet, Text } from "react-native";
-import Detalhes from "../mocks/mocks";
+import Cursos from "../mocks/mocks";
 
 export default function Item({ item }) {
     return (

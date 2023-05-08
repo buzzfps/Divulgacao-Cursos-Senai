@@ -7,7 +7,7 @@ const Cursos = [
                 nomecurso:'Alimentos Funcionais',
                 ensino: 'A Distância',
                 carga: '20 horas',
-                detalhes:[
+                detalhes:
                     {
                         nomecurso:'Alimentos Funcionais',
                         ensino: 'A Distância',
@@ -18,14 +18,14 @@ const Cursos = [
                         telefone: '19 3837-6300',
                         email: 'senaijaguariuna@sp.senai.br',
                         valor: 'Gratuito',
+                        matricula:'https://jaguariuna.sp.senai.br/curso/97264/513/alimentos-funcionais'
                     }
-                ],
             },
              {
                  nomecurso:'Inversores',
                  ensino: 'Presencial',
                  carga: '24 horas',
-                 detalhes:[
+                 detalhes:
                      {
                         nomecurso:'Inversores',
                         ensino: 'Presencial',
@@ -36,14 +36,14 @@ const Cursos = [
                         telefone: '19 3837-6300',
                         email: 'senaijaguariuna@sp.senai.br',
                         valor: 'Gratuito',
+                        matricula:'https://jaguariuna.sp.senai.br/curso/54621/513/inversores'
                      }
-                 ],
              },
              {
                  nomecurso:'Veículos Elétronicos e Híbridos',
                  ensino: 'A Distância',
                  carga: '20 horas',
-                 detalhes:[
+                 detalhes:
                      {
                         nomecurso:'Veículos Elétronicos e Híbridos',
                         ensino: 'A Distância',
@@ -54,8 +54,8 @@ const Cursos = [
                         telefone: '19 3837-6300',
                         email: 'senaijaguariuna@sp.senai.br',
                         valor: 'Gratuito',
+                        matricula:'https://jaguariuna.sp.senai.br/curso/96083/513/veiculos-eletricos-e-hibridos'
                      }
-                 ],
              },
         ]
     },
@@ -67,7 +67,7 @@ const Cursos = [
                 nomecurso:'Eletricista de Manutenção Eletroeletrônica',
                 ensino: 'Precensial',
                 carga: '1600 horas',
-                detalhes:[
+                detalhes:
                     {
                         nomecurso:'Eletricista de Manutenção Eletroeletrônica',
                         ensino: 'Presencial',
@@ -78,14 +78,14 @@ const Cursos = [
                         telefone: '19 3837-6300',
                         email: 'senaijaguariuna@sp.senai.br',
                         valor: 'Gratuito', 
+                        matricula:'https://jaguariuna.sp.senai.br/curso/94691/513/eletricista-de-manutencao-eletroeletronica'
                     }
-                ],
             },
             {
                 nomecurso:'Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão',
                 ensino: 'Precensial',
                 carga: '800 horas',
-                detalhes:[
+                detalhes:
                     {
                         nomecurso:'Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão',
                         ensino: 'Presencial',
@@ -96,14 +96,14 @@ const Cursos = [
                         telefone: '19 3837-6300',
                         email: 'senaijaguariuna@sp.senai.br',
                         valor: 'Gratuito', 
+                        matricula:'https://jaguariuna.sp.senai.br/curso/82897/513/mecanico-de-bombas-motores-compressores-e-equipamentos-de-transmissao'
                     }
-                ],
             },
             {
                 nomecurso:'Mecânico de Usinagem',
                 ensino: 'Precensial',
                 carga: '1600 horas',
-                detalhes:[
+                detalhes:
                     {
                         nomecurso:'Mecânico de Usinagem',
                         ensino: 'Presencial',
@@ -114,8 +114,8 @@ const Cursos = [
                         telefone: '19 3837-6300',
                         email: 'senaijaguariuna@sp.senai.br',
                         valor: 'Gratuito', 
+                        matricula:'https://jaguariuna.sp.senai.br/curso/76298/513/mecanico-de-usinagem'
                     }
-                ],
             },
         ]
     },
@@ -127,7 +127,7 @@ const Cursos = [
                 nomecurso:'Técnico em Eletrônica',
                 ensino: 'Precensial',
                 carga: '1200 horas',
-                detalhes:[
+                detalhes:
                     {
                         nomecurso:'Técnico em Eletrônica',
                         ensino: 'Presencial',
@@ -138,14 +138,14 @@ const Cursos = [
                         telefone: '19 3837-6300',
                         email: 'senaijaguariuna@sp.senai.br',
                         valor: 'Gratuito', 
+                        matricula:'https://jaguariuna.sp.senai.br/curso/99286/513/tecnico-em-eletronica'
                     }
-                ],
             },
             {
                 nomecurso:'Técnico em Desenvolvimento de Sistemas',
                 ensino: 'Precensial',
                 carga: '1200 horas',
-                detalhes:[
+                detalhes:
                     {
                         nomecurso:'Técnico em Desenvolvimento de Sistemas',
                         ensino: 'Presencial',
@@ -156,8 +156,8 @@ const Cursos = [
                         telefone: '19 3837-6300',
                         email: 'senaijaguariuna@sp.senai.br',
                         valor: 'Gratuito', 
+                        matricula:'https://jaguariuna.sp.senai.br/curso/97012/513/tecnico-em-desenvolvimento-de-sistemas'
                     }
-                ],
             },
         ]
 
